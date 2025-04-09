@@ -53,6 +53,8 @@ section {
 #home {
   background-color: #0b0b0b;
   border-bottom: 2px solid #2e2e2e;
+  padding: 100px 20px;
+  text-align: center;
 }
 
 #about {
